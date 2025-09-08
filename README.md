@@ -1,2 +1,5 @@
-# geol_490_kfupm
-GEOL 490 - Special Topics course for the College of Petroleum Engineering and Geosciences (KFUPM).
+# GEOL 490 - Special Topics
+
+King Fahd University of Petroleum and Minerals.
+
+College of Petroleum Engineering and Geosciences.
