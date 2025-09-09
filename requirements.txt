@@ -1,7 +1,7 @@
 # Core modules
-jupyterlite-core==0.6.1
-jupyterlab~=4.4.3
-notebook~=7.4.3
+jupyterlite-core==0.6.4
+jupyterlab~=4.4.7
+notebook~=7.4.5
 
 jupyterlite-pyodide-kernel
 
