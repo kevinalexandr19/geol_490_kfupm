@@ -3,7 +3,7 @@
 ---
 ### Version 1.0 (Term 251)
 
-### Author: [Kevin Alexander Gomez](https://www.linkedin.com/in/kevin-alexander-g%C3%B3mez-2b0263111/)
+### Author: [Kevin Alexander Gomez](https://www.linkedin.com/in/kevin-alexander-gomez/)
 
 Access the application by clicking on this [link](https://kevinalexandr19.github.io/geol_490_kfupm/).
 
