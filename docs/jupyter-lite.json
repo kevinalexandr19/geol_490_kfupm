@@ -30,7 +30,7 @@
       },
       {
         "extension": "./extension",
-        "load": "static/remoteEntry.4d5ef87d14f03accc582.js",
+        "load": "static/remoteEntry.32d44f4437ccaeff44cd.js",
         "name": "ipyevents"
       },
       {
