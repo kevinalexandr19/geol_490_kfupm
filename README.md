@@ -1,9 +1,11 @@
 # GEOL 490 - Special Topics
 
+## Course Professor: [Dr. Ardiansyah Koeshidayatullah](https://www.linkedin.com/in/ardiansyah-koeshidayatullah-24737461/)
+
 ---
 ### Version 1.0 (Term 251)
 
-### Author: [Kevin Alexander Gomez](https://www.linkedin.com/in/kevin-alexander-gomez/)
+### Code Author: [Kevin Alexander Gomez](https://www.linkedin.com/in/kevin-alexander-gomez/)
 
 Access the application by clicking on this [link](https://kevinalexandr19.github.io/geol_490_kfupm/).
 
